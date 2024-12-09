@@ -15,3 +15,9 @@ Fuego Cell es una aplicación personalizada para la gestión de reparaciones de 
 - **Backend:** Node.js, Express.js
 - **Base de datos:** MongoDB
 - **Otras herramientas:** JWT (para autenticación)
+
+## 🌟 Capturas
+![Captura 1](/formulario.PNG)
+![Captura 2](/home.PNG)
+![Captura 2](/inventario.PNG)
+![Captura 2](/menu.PNG)
